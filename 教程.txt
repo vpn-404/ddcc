@@ -1,0 +1,25 @@
+解压
+ulimit -n 999999
+chmod 777 *
+apt install npm -y
+apt install nodejs -y
+apt install python3
+（缺什么环境 看提示 npm install xxx）
+
+httpx攻击模式：
+cd /cc
+python3 ckcc.py -down
+
+./cc 网站 时间 默认30线程 get方式
+
+
+跑宽带攻击模式
+./bigcc 网站 时间
+
+
+uam模式（不一定能穿墙）
+
+./uam 网站 时间
+
+
+skill node 结束
